@@ -1,0 +1,187 @@
+{
+    "name": "Sushant Paswan",
+    "contact": {
+      "address": "02-Shri. Atmaram Bhagat Sec-1e Kalamboli Mumbai 410218 Maharashtra",
+      "phone": "+91 9136362029",
+      "email": "paswansushant092@gmail.com",
+      "github": "github.com/sush-p7",
+      "linkedin": "linkedin.com/in/sushant07"
+    },
+    "objective": "Seeking a dynamic tech company where I can enhance my development skills while solving challenging problems. With a foundation in product visualisation and graphic design, I'm eager to transition into a development role, leveraging my creativity and technical expertise to contribute to innovative solutions and drive company growth.",
+    "education": {
+      "degree": "Bachelor of Science in Information Technology",
+      "institution": "Pillai College of Arts Commerce & Science - PanvelMumbai",
+      "cgpa": 8.7,
+      "years": "2021-2024",
+      "coursework": [
+        "Data Analysis",
+        "Information Systems Management",
+        "Database Management Systems",
+        "Business Intelligence",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Programming Languages",
+        "Computer Network",
+        "Discrete Mathematics",
+        "Database and SQL",
+        "Web Development"
+      ]
+    },
+    "certifications": [
+      {
+        "name": "Python Pro Bootcamp",
+        "instructor": "Dr. Angela Yu",
+        "date": "04/23-07/23",
+        "link": "[link]"
+      },
+      {
+        "name": "The Web Developer Bootcamp",
+        "instructor": "Colt Steele",
+        "date": "04/22-07/22",
+        "project": "The Sush Camp",
+        "link": "[link]"
+      },
+      {
+        "name": "Java Masterclass",
+        "instructor": "Tim Buchalka Learn Programming Academy",
+        "date": "04/23-07/23"
+      },
+      {
+        "name": "Cyber Security and Digital Forensics",
+        "institution": "PCACS",
+        "date": "09/21-10/21",
+        "link": "[link]"
+      },
+      {
+        "name": "Flutter & Dart",
+        "instructor": "Maximilian Schwarzmüller",
+        "date": "09/23-02/24",
+        "project": "The Expense Tracker",
+        "link": "[link]"
+      }
+    ],
+    "skills": {
+      "tools": ["Tableau", "Power BI", "Git", "VS Code", "Microsoft Excel", "Intellij Idea", "PyCharm", "Jupyter Notebook"],
+      "design": ["Figma", "Adobe Photoshop", "Adobe Illustrator"],
+      "languages": {
+        "intermediate": ["C/C++", "Python", "SQL", "JavaScript", "Java", "Dart"],
+        "basic": ["Bash", "C#"]
+      },
+      "frameworks": ["Express", "Flask", "Hibernate (Servlet/JSP)", "Flutter", "ReactJS", "MongoDB", "React", "Angular", "Meteor.js"]
+    },
+    "languages": ["English", "Hindi", "Marathi", "Gujarati"],
+    "achievements": [
+      {
+        "title": "Finalist Aavishkar Research Convention",
+        "description": [
+          "Conducted thorough data analysis to discern market trends, optimising decision-making processes.",
+          "Collaborated seamlessly with cross-functional teams, delivering key insights for strategic planning.",
+          "Crafted and presented impactful reports, effectively communicating findings to senior management.",
+          "Proactively contributed to ad-hoc projects, addressing business challenges with agility.",
+          "Demonstrated strong problem-solving abilities, leading to streamlined business processes.",
+          "Recognized for meticulous attention to detail in complex data analysis tasks.",
+          "Engaged in continuous learning to stay updated on industry trends and best practices."
+        ],
+        "link": "[link]"
+      },
+      {
+        "title": "Creative Designer 2023",
+        "description": [
+          "Recognized as a Creative Designer for dedication and contribution towards college brochures, showcasing innovative design concepts and enhancing visual appeal."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "SushCamp App Development",
+        "description": "A full stack Web solution for finding camping place",
+        "details": [
+          "Developed a full-stack web application using Express.js with EJS templating for the frontend.",
+          "Integrated MongoDB Atlas for efficient data storage and retrieval.",
+          "Implemented RESTful routing to facilitate seamless navigation and interaction.",
+          "Ensured security through Passport.js authentication for user registration and login functionality.",
+          "Enabled users to list their own campgrounds by registering on the site.",
+          "Leveraged modern technologies to create a user-friendly and dynamic experience for campground exploration and management."
+        ],
+        "link": "[link]"
+      },
+      {
+        "title": "Expenses Tracker App Development",
+        "description": "A user-friendly app solution for tracking expenses",
+        "details": [
+          "Developed a mobile app for expense tracking utilising Firebase services for data management and security, enabling users to monitor and manage their expenses conveniently.",
+          "Implemented user authentication via email for secure access.",
+          "Utilised Firebase services for data storage and backend functionality.",
+          "Designed an intuitive user interface for easy expense tracking and management."
+        ],
+        "technologies": ["Firebase", "Flutter"],
+        "link": "[link]"
+      },
+      {
+        "title": "E-commerce Furniture Shopping Website",
+        "description": "Developed an E-commerce website for furniture shopping using Java, JSP, and Servlets, providing users with a seamless online shopping experience.",
+        "technologies": ["Java", "JSP", "Servlets", "MySQL Database"],
+        "link": "[link]"
+      }
+    ],
+    "internships": [
+      {
+        "company": "ProgrammingHub",
+        "role": "Java Intern",
+        "type": "Full time - Office",
+        "location": "Seawoods",
+        "duration": "04/2024-05/2024",
+        "responsibilities": [
+          "Produced educational Java content for Udemy courses, including teaching videos and small programming examples.",
+          "Collaborated with instructors to ensure accuracy and clarity of instructional materials.",
+          "Contributed to AI projects.",
+          "Assisted with documentation tasks, including writing tutorials and technical documentation."
+        ],
+        "link": "[link]"
+      },
+      {
+        "company": "theCodexa",
+        "roles": [
+          {
+            "role": "Product Visualizer",
+            "type": "Full time - Office",
+            "location": "Seawoods",
+            "duration": "04/2023-07/2023",
+            "responsibilities": [
+              "Collaborated directly with clients to gather requirements and understand their needs for product visualisation projects, ensuring a thorough understanding of their objectives.",
+              "Conducted market research and trend analysis to inform the visualisation process, incorporating industry best practices and ensuring alignment with current market demands.",
+              "Utilised Blender software to create visually stunning product visualisations and animations, effectively bringing client concepts and ideas to life.",
+              "Worked closely with cross-functional teams to iterate on designs and incorporate feedback, ensuring the final visualisations met or exceeded client expectations."
+            ]
+          },
+          {
+            "role": "Graphic Designer",
+            "type": "Full time - Office",
+            "location": "Seawoods",
+            "duration": "04/2023-07/2023",
+            "responsibilities": [
+              "Engaged in direct client collaboration to gather project requirements and understand their vision for graphic design initiatives, fostering strong client relationships and ensuring alignment with their branding goals.",
+              "Leveraged tools such as Figma for website prototyping and Photoshop for the creation of high-quality graphic assets, including social media posts, advertisements, and promotional materials.",
+              "Designed logos that effectively captured and communicated the essence of clients' brands, delivering unique and memorable visual identities that resonated with target audiences.",
+              "Collaborated closely with marketing and communication teams to ensure consistent brand representation across all design assets and promotional materials, contributing to cohesive and impactful marketing campaigns."
+            ]
+          }
+        ],
+        "link": ["[link]", "[link]", "[link]"]
+      }
+    ],
+    "social_work": [
+      {
+        "organization": "ABVP",
+        "role": "Social Media Head - Panvel",
+        "responsibilities": [
+          "Working closely with the content team to design awareness posters."
+        ]
+      },
+      {
+        "organization": "Sevasahayog Foundation",
+        "link": "[link]"
+      }
+    ]
+  }
+  

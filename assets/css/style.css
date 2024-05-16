@@ -598,7 +598,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(51, 100%, 67%, 0);
+  background: hsla(0, 0%, 32%, 0.5);
   /* backdrop-filter: blur(10px); */
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
@@ -890,6 +890,9 @@ main {
 
 .clients-item img {
   width: 100%;
+  /* width: 5em; */
+  object-fit: contain;
+  /* height: 5em; */
   filter: grayscale(1);
   transition: var(--transition-1);
 }
